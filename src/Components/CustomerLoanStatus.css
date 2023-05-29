@@ -1,0 +1,15 @@
+#form-container1{
+    display: flex;
+    align-items: center;
+    position: absolute;
+}
+#trackButton{
+    background-color: red;
+}
+#enterLoanId{
+    margin-top: 3%;
+    width: 20%;
+}
+.app-heading{
+   margin-top: 5%;
+}
