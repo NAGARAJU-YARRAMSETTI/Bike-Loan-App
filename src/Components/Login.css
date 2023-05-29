@@ -1,0 +1,69 @@
+
+.form-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 50px;
+    border: 2px solid #0e0d0d;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(245, 241, 241, 0.871);
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: '400px';
+    background-color: #fafafd;
+    
+  }
+  #Log{
+    background-color: blue;
+    width: 100%;     
+    text-decoration-color: white;
+    height: 80px;
+    
+   }
+  
+  .form-label {
+    font-size: 24px;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .form-control {
+    padding: 8px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    width: 200px;
+  }
+  
+  #loginButton {
+    margin-top: 20px;
+    padding: 8px 20px;
+    font-size: 16px;
+    background-color: #4285f4;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    display: block;
+    margin: 0 auto;
+  }
+  
+  #loginButton:hover {
+    background-color: #2b70c8;
+  }
+  
+  #signuplink {
+    margin-top: 10px;
+    text-align: center;
+  }
+  
+  #signuplink a {
+    color: #4285f4;
+    text-decoration: none;
+  }
+  
+  #signuplink a:hover {
+    text-decoration: underline;
+  }
