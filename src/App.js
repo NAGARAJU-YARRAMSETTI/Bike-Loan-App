@@ -14,7 +14,6 @@ function App() {
   return (
     <div className="App">
       {/*<Adminappliedloan/>
-      <Login2 />
       <Signup />
       <Auth />
       <Login />*/}
